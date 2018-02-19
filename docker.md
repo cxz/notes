@@ -1,13 +1,12 @@
-# build
-docker build [OPTIONS] PATH | URL | -
+# build: docker build [OPTIONS] PATH | URL | -
 docker build -t tag -f Dockerfile context
 
 # build and remove intermediary images during build process
 docker build --rm -t tag -f Dockerfile context
 
 # run (assign name, interactive, removed when exit)
-docker run [OPTIONS] image [COMMAND] [ARG...]
-docker run -rm --name test -v /path:/path-inside-container -ti image
+- docker run [OPTIONS] image [COMMAND] [ARG...]
+- docker run --rm --name test -v /path:/path-inside-container -ti image
 
 # run container and give it a name (detached)
 docker run -d -name tmp image
