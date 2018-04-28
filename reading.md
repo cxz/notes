@@ -1,3 +1,7 @@
+# misc
+* deep painterly harmonization https://arxiv.org/pdf/1804.03189.pdf
+
+
 # object detection
 
 * mask r-cnn https://arxiv.org/abs/1703.06870
