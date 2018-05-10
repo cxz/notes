@@ -2,7 +2,7 @@
 * deep painterly harmonization https://arxiv.org/pdf/1804.03189.pdf
 - http://blog.acolyer.org/2018/05/08/image-to-image-translation-with-conditional-adversarial-networks
 - http://blog.acolyer.org/2018/05/09/photo-realistic-single-image-super-resolution-using-a-generative-adversarial-network
-
+- https://blog.acolyer.org/2018/05/10/progressive-growing-of-gans-for-improved-quality-stability-and-variation/
 
 # object detection
 
