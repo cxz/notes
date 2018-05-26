@@ -4,7 +4,6 @@
 - http://blog.acolyer.org/2018/05/09/photo-realistic-single-image-super-resolution-using-a-generative-adversarial-network
 - https://blog.acolyer.org/2018/05/10/progressive-growing-of-gans-for-improved-quality-stability-and-variation/
 - https://blog.acolyer.org/2018/05/23/pixie-a-system-for-recommending-3-billion-items-to-200-million-users-in-real-time/
-- https://blog.acolyer.org/2018/05/25/unsupervised-anomaly-detection-via-variational-auto-encoder-for-seasonal-kpis-in-web-applications/
 
 # object detection
 
