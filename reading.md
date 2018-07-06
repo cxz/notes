@@ -1,4 +1,5 @@
 # misc
+- image generation from scene graph  https://arxiv.org/pdf/1804.01622.pdf
 * code2vec: https://arxiv.org/abs/1803.09473v3
 * deep painterly harmonization https://arxiv.org/pdf/1804.03189.pdf
 - http://blog.acolyer.org/2018/05/08/image-to-image-translation-with-conditional-adversarial-networks
