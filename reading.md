@@ -1,4 +1,5 @@
 # misc
+- from word embeddings to doc distance http://proceedings.mlr.press/v37/kusnerb15.pdf
 - image generation from scene graph  https://arxiv.org/pdf/1804.01622.pdf
 * code2vec: https://arxiv.org/abs/1803.09473v3
 * deep painterly harmonization https://arxiv.org/pdf/1804.03189.pdf
