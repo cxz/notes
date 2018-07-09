@@ -9,6 +9,7 @@
 * measuring the tendency of CNNs to learn surface statistical regularities: https://arxiv.org/abs/1711.11561
 
 # nlp
+- ulmfit https://arxiv.org/pdf/1801.06146.pdf
 - deep contextualized word representations https://arxiv.org/abs/1802.05365
 - universal language model fine-tuning for text classification https://arxiv.org/abs/1801.06146
 - infersent https://arxiv.org/abs/1705.02364
