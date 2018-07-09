@@ -1,5 +1,4 @@
 # misc
-- from word embeddings to doc distance http://proceedings.mlr.press/v37/kusnerb15.pdf
 - image generation from scene graph  https://arxiv.org/pdf/1804.01622.pdf
 * code2vec: https://arxiv.org/abs/1803.09473v3
 * deep painterly harmonization https://arxiv.org/pdf/1804.03189.pdf
@@ -8,6 +7,12 @@
 - https://blog.acolyer.org/2018/05/10/progressive-growing-of-gans-for-improved-quality-stability-and-variation/
 - https://blog.acolyer.org/2018/05/23/pixie-a-system-for-recommending-3-billion-items-to-200-million-users-in-real-time/
 * measuring the tendency of CNNs to learn surface statistical regularities: https://arxiv.org/abs/1711.11561
+
+# nlp
+- infersent https://arxiv.org/abs/1705.02364
+- universal sentence encoder https://arxiv.org/abs/1803.11175
+- from word embeddings to doc distance http://proceedings.mlr.press/v37/kusnerb15.pdf
+
 
 # object detection
 
