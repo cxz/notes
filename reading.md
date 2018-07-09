@@ -9,6 +9,8 @@
 * measuring the tendency of CNNs to learn surface statistical regularities: https://arxiv.org/abs/1711.11561
 
 # nlp
+- deep contextualized word representations https://arxiv.org/abs/1802.05365
+- universal language model fine-tuning for text classification https://arxiv.org/abs/1801.06146
 - infersent https://arxiv.org/abs/1705.02364
 - universal sentence encoder https://arxiv.org/abs/1803.11175
 - from word embeddings to doc distance http://proceedings.mlr.press/v37/kusnerb15.pdf
