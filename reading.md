@@ -1,4 +1,5 @@
 # misc
+- super convergence: https://arxiv.org/abs/1708.07120
 - image generation from scene graph  https://arxiv.org/pdf/1804.01622.pdf
 * code2vec: https://arxiv.org/abs/1803.09473v3
 * deep painterly harmonization https://arxiv.org/pdf/1804.03189.pdf
