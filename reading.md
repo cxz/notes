@@ -1,4 +1,5 @@
 # misc
+- delayed impact of fair machine learning https://arxiv.org/abs/1803.04383
 - bounding data races in space and time http://kcsrk.info/papers/pldi18-memory.pdf
 - super convergence: https://arxiv.org/abs/1708.07120
 - image generation from scene graph  https://arxiv.org/pdf/1804.01622.pdf
