@@ -1,4 +1,5 @@
 # misc
+- forward decay: http://dimacs.rutgers.edu/~graham/pubs/papers/fwddecay.pdf
 - shap http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
 - delayed impact of fair machine learning https://arxiv.org/abs/1803.04383
 - bounding data races in space and time http://kcsrk.info/papers/pldi18-memory.pdf
