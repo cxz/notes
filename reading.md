@@ -1,4 +1,5 @@
 # misc
+- capsules for object segmentation: https://arxiv.org/abs/1804.04241
 - query compiler: https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf
 - forward decay: http://dimacs.rutgers.edu/~graham/pubs/papers/fwddecay.pdf
 - shap http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
