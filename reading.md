@@ -1,4 +1,8 @@
 # misc
+- knowledge distillation: https://arxiv.org/abs/1503.02531
+- hierarchical visuomotor of humanoids: https://arxiv.org/abs/1811.09656
+- semi-supervised learning with bidirectinal gans: https://arxiv.org/abs/1811.11426
+- gated graph sequence network: https://arxiv.org/abs/1511.05493
 - capsules for object segmentation: https://arxiv.org/abs/1804.04241
 - query compiler: https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf
 - forward decay: http://dimacs.rutgers.edu/~graham/pubs/papers/fwddecay.pdf
