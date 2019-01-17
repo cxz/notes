@@ -22,6 +22,7 @@
 - GANsfer Learning: Combining labelled and unlabelled data for GAN based data augmentation: https://arxiv.org/abs/1811.10669v1
 - Quasi-hyperbolic momentum and Adam for deep learning: https://arxiv.org/abs/1810.06801
 - A Retrieve-and-Edit Framework for Predicting Structured Outputs: https://arxiv.org/abs/1812.01194
+- Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++: https://arxiv.org/pdf/1803.09693.pdf
 
 
 # nlp
