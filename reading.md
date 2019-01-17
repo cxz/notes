@@ -18,6 +18,11 @@
 - https://blog.acolyer.org/2018/05/10/progressive-growing-of-gans-for-improved-quality-stability-and-variation/
 - https://blog.acolyer.org/2018/05/23/pixie-a-system-for-recommending-3-billion-items-to-200-million-users-in-real-time/
 * measuring the tendency of CNNs to learn surface statistical regularities: https://arxiv.org/abs/1711.11561
+- Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon https://arxiv.org/pdf/1811.06128.pdf
+- GANsfer Learning: Combining labelled and unlabelled data for GAN based data augmentation: https://arxiv.org/abs/1811.10669v1
+- Quasi-hyperbolic momentum and Adam for deep learning: https://arxiv.org/abs/1810.06801
+- A Retrieve-and-Edit Framework for Predicting Structured Outputs: https://arxiv.org/abs/1812.01194
+
 
 # nlp
 - ulmfit https://arxiv.org/pdf/1801.06146.pdf
