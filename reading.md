@@ -23,6 +23,8 @@
 - Quasi-hyperbolic momentum and Adam for deep learning: https://arxiv.org/abs/1810.06801
 - A Retrieve-and-Edit Framework for Predicting Structured Outputs: https://arxiv.org/abs/1812.01194
 - Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++: https://arxiv.org/pdf/1803.09693.pdf
+- GAN Dissection: Visualizing and Understanding Generative Adversarial Networks: https://arxiv.org/abs/1811.10597
+
 
 
 # nlp
