@@ -1,4 +1,5 @@
 # misc
+- tabNet: attentive interpretable yabular learning: https://arxiv.org/pdf/1908.07442.pdf
 - knowledge distillation: https://arxiv.org/abs/1503.02531
 - hierarchical visuomotor of humanoids: https://arxiv.org/abs/1811.09656
 - semi-supervised learning with bidirectinal gans: https://arxiv.org/abs/1811.11426
@@ -26,7 +27,6 @@
 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks: https://arxiv.org/abs/1811.10597
 - Noise2Noise: https://arxiv.org/abs/1803.04189
 - A Style-Based Generator Architecture for Generative Adversarial Networks: https://arxiv.org/abs/1812.04948
-
 
 
 # nlp
