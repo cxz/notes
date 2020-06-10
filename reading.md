@@ -1,5 +1,6 @@
 # misc
 - tabNet: attentive interpretable yabular learning: https://arxiv.org/pdf/1908.07442.pdf
+- omniglot challenge progress report: https://arxiv.org/abs/1902.03477
 - knowledge distillation: https://arxiv.org/abs/1503.02531
 - hierarchical visuomotor of humanoids: https://arxiv.org/abs/1811.09656
 - semi-supervised learning with bidirectinal gans: https://arxiv.org/abs/1811.11426
