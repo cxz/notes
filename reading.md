@@ -1,4 +1,5 @@
 # misc
+- Looking back at Postgres: https://arxiv.org/pdf/1901.01973.pdf
 - tabNet: attentive interpretable yabular learning: https://arxiv.org/pdf/1908.07442.pdf
 - omniglot challenge progress report: https://arxiv.org/abs/1902.03477
 - knowledge distillation: https://arxiv.org/abs/1503.02531
