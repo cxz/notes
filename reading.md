@@ -1,4 +1,5 @@
 # misc
+- [sigmod 20] Improving FAISS: https://conglongli.github.io/paper/ann-sigmod2020.pdf
 - [cvpr 20] DualSDF: https://arxiv.org/abs/2004.02869
 - [cvpr 20] Leveraging 2D Data to Learn Textured 3D Mesh Generation https://arxiv.org/abs/2004.04180
 - [cvpr 20] CvxNet: Learnable Convex Decomposition: https://arxiv.org/abs/1909.05736
