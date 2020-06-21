@@ -1,4 +1,48 @@
+# generative models and image synthesis
+- https://arxiv.org/abs/1912.08804
+- https://arxiv.org/abs/2004.01294
+- scene edior: https://arxiv.org/abs/1903.01192
+- MixNMatch: https://arxiv.org/abs/1911.11758
+- StarGANv2: https://arxiv.org/abs/1912.01865
+- GAN compression: https://yassouali.github.io//ml-blog/cvpr2020/
+- semantic pyramid: https://arxiv.org/abs/2003.06221
+- adversarial latent autoencoders: https://arxiv.org/abs/2004.04467
+- https://arxiv.org/abs/2003.12697
+
+# representation learning
+- Self-Supervised Learning of Pretext-Invariant Representations: https://arxiv.org/abs/1912.01991
+- ClusterFit: Improving generalization of visual representations: https://arxiv.org/abs/1912.03330
+- GAN Compression: Efficient Architectures for Interactive Conditional GANs: https://arxiv.org/abs/2003.08936
+- momentum contrast: https://arxiv.org/abs/1911.05722
+- https://arxiv.org/abs/2004.02331
+
+# computational photography
+- https://arxiv.org/pdf/2004.01180.pdf
+- https://arxiv.org/abs/2004.04727
+- latent space exploration: https://arxiv.org/abs/2003.03808
+
+# transfer/low-shot/semi
+- https://arxiv.org/abs/2004.00070
+- polar mask: https://arxiv.org/abs/1909.13226
+- set-to-set functions: https://arxiv.org/abs/1812.03664
+- https://arxiv.org/abs/1910.00701
+
+# vision and language
+- https://arxiv.org/abs/1912.02315
+
+
 # misc
+- pointrend: https://arxiv.org/abs/1912.08193
+- noisey students: https://arxiv.org/abs/1911.04252
+- designing network design spaces: https://arxiv.org/abs/2003.13678
+- efficientdet: https://arxiv.org/abs/1911.09070
+- dynamic convolution: https://arxiv.org/abs/1912.03458
+- deep snake: https://arxiv.org/abs/2001.01629
+- anchor-based/anchor-free: https://arxiv.org/pdf/1912.02424
+- http://openaccess.thecvf.com/CVPR2020.py
+- Butterfly ffts: https://arxiv.org/abs/1906.02256
+- Superglue: https://arxiv.org/abs/1911.11763
+- https://arxiv.org/abs/1912.06430
 - [sigmod 20] Order-Preserving Key Compression for In-Memory Search Trees: https://arxiv.org/pdf/2003.02391.pdf
 - [sigmod 20] Improving FAISS: https://conglongli.github.io/paper/ann-sigmod2020.pdf
 - [cvpr 20] DualSDF: https://arxiv.org/abs/2004.02869
