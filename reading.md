@@ -1,4 +1,5 @@
 # generative models and image synthesis
+- generative pretraining: https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf
 - pulse: https://arxiv.org/abs/2003.03808
 - https://arxiv.org/abs/1912.08804
 - https://arxiv.org/abs/2004.01294
@@ -33,6 +34,7 @@
 
 
 # misc
+- gated linear networks: https://arxiv.org/abs/1910.01526
 - pointrend: https://arxiv.org/abs/1912.08193
 - noisey students: https://arxiv.org/abs/1911.04252
 - designing network design spaces: https://arxiv.org/abs/2003.13678
