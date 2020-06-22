@@ -12,6 +12,7 @@
 - https://arxiv.org/abs/2003.12697
 
 # representation learning
+- Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning: https://arxiv.org/abs/2006.07733
 - Self-Supervised Learning of Pretext-Invariant Representations: https://arxiv.org/abs/1912.01991
 - ClusterFit: Improving generalization of visual representations: https://arxiv.org/abs/1912.03330
 - GAN Compression: Efficient Architectures for Interactive Conditional GANs: https://arxiv.org/abs/2003.08936
