@@ -35,6 +35,8 @@
 
 
 # misc
+- matrix profile: https://www.cs.ucr.edu/~eamonn/guided-motif-KDD17-new-format-10-pages-v005.pdf
+- matrix profile I (cont): https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf
 - gated linear networks: https://arxiv.org/abs/1910.01526
 - pointrend: https://arxiv.org/abs/1912.08193
 - noisey students: https://arxiv.org/abs/1911.04252
