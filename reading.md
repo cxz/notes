@@ -35,6 +35,7 @@
 
 
 # misc
+- ScaNN: accelerating large-scale inference with anisotropic vector quantization  https://arxiv.org/abs/1908.10396
 - matrix profile: https://www.cs.ucr.edu/~eamonn/guided-motif-KDD17-new-format-10-pages-v005.pdf
 - matrix profile I (cont): https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf
 - gated linear networks: https://arxiv.org/abs/1910.01526
