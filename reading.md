@@ -35,6 +35,7 @@
 
 
 # misc
+- YOLACT: real-time instance segmentation: https://arxiv.org/abs/1904.02689
 - ScaNN: accelerating large-scale inference with anisotropic vector quantization  https://arxiv.org/abs/1908.10396
 - matrix profile: https://www.cs.ucr.edu/~eamonn/guided-motif-KDD17-new-format-10-pages-v005.pdf
 - matrix profile I (cont): https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf
