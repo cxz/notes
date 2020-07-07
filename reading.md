@@ -35,6 +35,7 @@
 
 
 # misc
+- Abnormal activity capture from passenger flow of elevator based on unsupervised learning and fine-grained multi-label recognition: https://arxiv.org/abs/2006.15873
 - YOLACT: real-time instance segmentation: https://arxiv.org/abs/1904.02689
 - ScaNN: accelerating large-scale inference with anisotropic vector quantization  https://arxiv.org/abs/1908.10396
 - matrix profile: https://www.cs.ucr.edu/~eamonn/guided-motif-KDD17-new-format-10-pages-v005.pdf
