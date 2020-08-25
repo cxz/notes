@@ -1,3 +1,13 @@
+# vehicle behaviour
+- https://arxiv.org/pdf/1912.11676.pdf
+- covernet - multimodal using trajectory sets: https://paperswithcode.com/conference/cvpr-2020-6
+- multipath: https://arxiv.org/pdf/1910.05449.pdf
+- multimodal with cnns: https://arxiv.org/abs/1809.10732
+- spagnn: https://arxiv.org/pdf/1910.08233.pdf
+
+# cvpr 2020 (papers with code)
+- https://paperswithcode.com/conference/cvpr-2020-6
+
 # generative models and image synthesis
 - generative pretraining: https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf
 - pulse: https://arxiv.org/abs/2003.03808
