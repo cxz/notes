@@ -1,4 +1,5 @@
 # vehicle behaviour
+- SoPhie: attentive GAN for predicting paths under physical constraints: https://arxiv.org/pdf/1806.01482.pdf
 - https://arxiv.org/pdf/1912.11676.pdf
 - covernet - multimodal using trajectory sets: https://paperswithcode.com/conference/cvpr-2020-6
 - multipath: https://arxiv.org/pdf/1910.05449.pdf
