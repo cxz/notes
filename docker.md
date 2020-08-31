@@ -45,3 +45,7 @@ docker build --rm ...
 
 # reference
 https://docs.docker.com/engine/reference/commandline/run/
+
+## Docker compose
+
+- About bridge networks default vs non-default: https://docs.docker.com/network/bridge/; ports are not forwarded by default when in bridge mode.
