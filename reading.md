@@ -10,6 +10,7 @@
 - https://paperswithcode.com/conference/cvpr-2020-6
 
 # generative models and image synthesis
+- Contrastive learning for unpaired image-to-image translation: https://arxiv.org/abs/2007.15651
 - generative pretraining: https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf
 - pulse: https://arxiv.org/abs/2003.03808
 - https://arxiv.org/abs/1912.08804
