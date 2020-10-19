@@ -47,6 +47,7 @@
 
 
 # misc
+- LSTMs compose (and learn) bottom-up: https://arxiv.org/abs/2010.04650
 - unsupervised translation of programming languages: https://arxiv.org/pdf/2006.03511.pdf
 - GIFnets: differentiable GIF Encoding Framework https://arxiv.org/abs/2006.13434
 - Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation: https://arxiv.org/abs/2003.07853
