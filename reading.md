@@ -5,6 +5,7 @@
 - multipath: https://arxiv.org/pdf/1910.05449.pdf
 - multimodal with cnns: https://arxiv.org/abs/1809.10732
 - spagnn: https://arxiv.org/pdf/1910.08233.pdf
+- what-if motion prediction https://arxiv.org/abs/2008.10587
 
 # cvpr 2020 (papers with code)
 - https://paperswithcode.com/conference/cvpr-2020-6
