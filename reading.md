@@ -49,6 +49,7 @@
 
 
 # misc
+- Most important statistical ideas of past 50 years? https://arxiv.org/abs/2012.00174
 - LSTMs compose (and learn) bottom-up: https://arxiv.org/abs/2010.04650
 - unsupervised translation of programming languages: https://arxiv.org/pdf/2006.03511.pdf
 - GIFnets: differentiable GIF Encoding Framework https://arxiv.org/abs/2006.13434
