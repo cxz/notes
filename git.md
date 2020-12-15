@@ -36,4 +36,5 @@ cp .git/lost-found/other/73f60804ac20d5e417783a324517eba600976d30 index.html
 
 # this is similar to git log but default to raw format
 git whatchanged --no-abbrev
+git whatchanged --since="2 weeks ago"
 git cat-file -p <sha1>
