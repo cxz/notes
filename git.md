@@ -34,4 +34,6 @@ ls -lah .git/lost-found/other/
 # Copy the relevant files to where you want them, for example:
 cp .git/lost-found/other/73f60804ac20d5e417783a324517eba600976d30 index.html
 
-
+# this is similar to git log but default to raw format
+git whatchanged --no-abbrev
+git cat-file -p <sha1>
