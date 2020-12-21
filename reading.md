@@ -47,6 +47,9 @@
 # vision and language
 - https://arxiv.org/abs/1912.02315
 
+# datasets
+- open brands dataset (alibaba):  https://arxiv.org/pdf/2012.07350.pdf
+
 
 # misc
 - Most important statistical ideas of past 50 years? https://arxiv.org/abs/2012.00174
