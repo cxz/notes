@@ -52,6 +52,7 @@
 
 
 # misc
+- Time-series Generative Adversarial Networks https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf
 - Learning Transferable Visual Models From Natural Language Supervision https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf
 - Most important statistical ideas of past 50 years? https://arxiv.org/abs/2012.00174
 - LSTMs compose (and learn) bottom-up: https://arxiv.org/abs/2010.04650
