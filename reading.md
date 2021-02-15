@@ -53,6 +53,7 @@
 
 # misc
 - Searching for Fast Model Families on Datacenter Accelerators https://arxiv.org/pdf/2102.05610.pdf
+- High-Performance Large-Scale Image Recognition Without Normalization https://arxiv.org/pdf/2102.06171.pdf
 - Time-series Generative Adversarial Networks https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf
 - Learning Transferable Visual Models From Natural Language Supervision https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf
 - Most important statistical ideas of past 50 years? https://arxiv.org/abs/2012.00174
