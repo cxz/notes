@@ -52,6 +52,7 @@
 
 
 # misc
+	- Self-supervised Video Object Segmentation by Motion Grouping: https://charigyang.github.io/motiongroup/
 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models https://arxiv.org/abs/1910.02054
 - ZeRO-Offload: Democratizing Billion-Scale Model Training https://arxiv.org/abs/2101.06840
 - Patterns, predictions, and actions: A story about machine learning https://arxiv.org/abs/2102.05242
