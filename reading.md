@@ -52,7 +52,9 @@
 
 
 # misc
-	- Self-supervised Video Object Segmentation by Motion Grouping: https://charigyang.github.io/motiongroup/
+- Large Scale Interactive Motion Forecasting for Autonomous Driving :
+The WAYMO OPEN MOTION DATASET: https://arxiv.org/pdf/2104.10133.pdf
+- Self-supervised Video Object Segmentation by Motion Grouping: https://charigyang.github.io/motiongroup/
 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models https://arxiv.org/abs/1910.02054
 - ZeRO-Offload: Democratizing Billion-Scale Model Training https://arxiv.org/abs/2101.06840
 - Patterns, predictions, and actions: A story about machine learning https://arxiv.org/abs/2102.05242
