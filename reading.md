@@ -52,6 +52,7 @@
 
 
 # misc
+- Why is AI harder than we think: https://arxiv.org/abs/2104.12871
 - Large Scale Interactive Motion Forecasting for Autonomous Driving :
 The WAYMO OPEN MOTION DATASET: https://arxiv.org/pdf/2104.10133.pdf
 - Self-supervised Video Object Segmentation by Motion Grouping: https://charigyang.github.io/motiongroup/
