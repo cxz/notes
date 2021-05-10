@@ -52,6 +52,8 @@
 
 
 # misc
+- MLP-Mixer: An all-MLP Architecture for Vision: https://arxiv.org/abs/2105.01601
+- Dynabench: Rethinking Benchmarking in NLP: https://arxiv.org/abs/2104.14337
 - Why is AI harder than we think: https://arxiv.org/abs/2104.12871
 - Large Scale Interactive Motion Forecasting for Autonomous Driving :
 The WAYMO OPEN MOTION DATASET: https://arxiv.org/pdf/2104.10133.pdf
