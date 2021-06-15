@@ -52,6 +52,7 @@
 
 
 # misc
+- Scaling Vision Transformers: https://arxiv.org/abs/2106.04560
 - Single View Geocentric Pose in the Wild: https://arxiv.org/abs/2105.08229
 - MLP-Mixer: An all-MLP Architecture for Vision: https://arxiv.org/abs/2105.01601
 - Dynabench: Rethinking Benchmarking in NLP: https://arxiv.org/abs/2104.14337
