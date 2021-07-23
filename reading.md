@@ -52,6 +52,7 @@
 
 
 # misc
+- Deep Declarative Networks: https://arxiv.org/pdf/1909.04866.pdf
 - Scaling Vision Transformers: https://arxiv.org/abs/2106.04560
 - Single View Geocentric Pose in the Wild: https://arxiv.org/abs/2105.08229
 - MLP-Mixer: An all-MLP Architecture for Vision: https://arxiv.org/abs/2105.01601
