@@ -52,6 +52,7 @@
 
 
 # misc
+- Machine Learning on Graphs: A Model and Comprehensive Taxonomy: https://arxiv.org/abs/2005.03675
 - End-to-End Human Pose and Mesh Reconstruction with Transformers: https://arxiv.org/abs/2012.09760
 - Deep Declarative Networks: https://arxiv.org/pdf/1909.04866.pdf
 - Scaling Vision Transformers: https://arxiv.org/abs/2106.04560
