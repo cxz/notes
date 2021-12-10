@@ -158,3 +158,5 @@ The WAYMO OPEN MOTION DATASET: https://arxiv.org/pdf/2104.10133.pdf
 * pqk-means https://arxiv.org/abs/1709.03708
 * revisiting Oxford and Paris: https://arxiv.org/pdf/1803.11285.pdf
 * unsupervised fine tuning with hard examples: https://arxiv.org/pdf/1604.02426.pdf
+* dpr -- dense passage retrieval for open-domain qa https://arxiv.org/abs/2004.04906
+* germanquad and germandpr https://arxiv.org/abs/2104.12741
