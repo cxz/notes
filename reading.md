@@ -138,6 +138,7 @@ The WAYMO OPEN MOTION DATASET: https://arxiv.org/pdf/2104.10133.pdf
 - infersent https://arxiv.org/abs/1705.02364
 - universal sentence encoder https://arxiv.org/abs/1803.11175
 - from word embeddings to doc distance http://proceedings.mlr.press/v37/kusnerb15.pdf
+- database reasoning over text https://arxiv.org/pdf/2106.01074.pdf 
 
 
 # object detection
