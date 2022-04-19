@@ -24,6 +24,7 @@
 - adversarial latent autoencoders: https://arxiv.org/abs/2004.04467
 - https://arxiv.org/abs/2003.12697
 - MichiGAN multi-input-conditioned hair image generation for portrait editing https://mlchai.com/files/tan2020michigan.pdf
+- stitch it in time: https://arxiv.org/abs/2201.08361
 
 # representation learning
 - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning: https://arxiv.org/abs/2006.07733
