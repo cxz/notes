@@ -130,6 +130,7 @@ The WAYMO OPEN MOTION DATASET: https://arxiv.org/pdf/2104.10133.pdf
 - Noise2Noise: https://arxiv.org/abs/1803.04189
 - A Style-Based Generator Architecture for Generative Adversarial Networks: https://arxiv.org/abs/1812.04948
 - OPT: Open Pre-trained Transformer Language Modelsi: https://arxiv.org/abs/2205.01068
+- NeuriCam: video super-resolution and colorization using key frames: https://arxiv.org/abs/2207.12496
 
 
 # nlp
